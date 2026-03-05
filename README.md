@@ -4,9 +4,9 @@ Hi! My name is **Curtis Chen** and I am a **Full Stack Developer** pursuing my M
 <br>
 
 I specialize in building responsive, mobile friendly, accessibility compliant web applications using **React** and **Next.js**. Currently, I'm:
-* 🚀 Integrating microservices and translating Figma designs into code at **Koios Enterprises**.
-* 🏊‍♂️ Creating athletic dashboards backed by Supabase for **UC Berkeley Athletics**.
-* 🧠 Exploring the intersection of Full Stack development and **Artificial Intelligence**.
+* Integrating microservices and translating Figma designs into code at **Koios Enterprises**.
+* Creating athletic dashboards backed by Supabase for **UC Berkeley Athletics**.
+* Exploring the intersection of Full Stack development and **Artificial Intelligence**.
 
 # Tech Stack:
 
@@ -22,11 +22,11 @@ I specialize in building responsive, mobile friendly, accessibility compliant we
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=curtischen03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=curtischen03&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=curtischen03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📬 Connect with me:
+# Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/curtis-chen1/)
 [<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />](https://curtischen03.github.io/Portfolio)
