@@ -30,4 +30,4 @@ I specialize in building responsive, mobile friendly, accessibility compliant we
 
 # Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/curtis-chen1/)
-[<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />](https://curtischen03.github.io/Portfolio)
+[<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />](https://curtis-chen-portfolio.vercel.app/)
