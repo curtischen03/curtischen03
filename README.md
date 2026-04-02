@@ -1,12 +1,9 @@
 # About Me:
-Hi! My name is **Curtis Chen** and I am a **Full Stack Developer** pursuing my MEng in AI at UCLA.
+Hi! My name is **Curtis Chen** and I am a **Full Stack Developer** pursuing my Masters of Engineering in AI at UCLA.
 
 <br>
 
-I specialize in building responsive, mobile friendly, accessibility compliant web applications using **React** and **Next.js**. Currently, I'm:
-* Integrating microservices and translating Figma designs into code at **Koios Enterprises**.
-* Creating athletic dashboards backed by Supabase for **UC Berkeley Athletics**.
-* Exploring the intersection of Full Stack development and **Artificial Intelligence**.
+I specialize in building responsive, mobile friendly, accessibility compliant web applications. Feel free to explore my work!
 
 # Tech Stack:
 
